@@ -1,0 +1,46 @@
+body {
+	background-image: url("bigben.jpg");
+	background-position: center center;
+}
+#top h1 {
+	font-family: Zapfino;
+	margin-top: 90px;
+	font-size: 80px;
+}
+#top h3 {
+	font-family: Didot;
+	font-style: italic;
+}
+.navbar-london a {
+	color: black;
+	font-family: Didot;
+	font-style: italic;
+	font-size: 18px;
+}
+.navbar-london a:hover {
+	background-color: rgba(255, 255, 255, 0) !important;
+	color: black;
+}
+.navbar-london #middle {
+	margin-right: 30px;
+	margin-left: 30px;
+}
+#top p {
+	font-size: 15px;
+	font-family: Century;
+}
+.date {
+	font-family: Zapfino;
+	font-weight: 800;
+}
+#top h5 {
+	font-size: 16px;
+	font-family: Didot;
+	font-weight: 800;
+}
+#top a {
+	color: black;
+}
+* {
+	color: black !important;
+}
